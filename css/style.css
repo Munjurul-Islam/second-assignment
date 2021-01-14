@@ -1,0 +1,16 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Fraunces', serif;
+    background-image:radial-gradient(skyblue, white, lightgray);
+  }
+ 
+  main{
+      background-image: linear-gradient(180deg, lightblue, lightgray, skyblue, #FFF9F4 );
+  }
+  .footer{
+      text-align: center;
+  }
